@@ -1,0 +1,1 @@
+Conway's game of life, taking an iter count, a board size (mostly for sanity checking), and a board in NetPBM P1 format, and emitting a board in NetPBM format.
